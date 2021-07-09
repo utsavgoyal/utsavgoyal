@@ -27,7 +27,7 @@ I'm Utsav Goyal!
 [<img align="left" alt="tensoflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tf]
 [<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
 [<img align="left" alt="docker" width="26px" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" />][docker]
-[<img align="left" alt="Openvino" width="26px" src="https://cdn-images-1.medium.com/max/1600/0*_cCKmlobBf5ERjOP.png" />][openvino]
+[<img align="left" alt="Openvino" width="26px" src="https://img.stackshare.io/service/12711/default_d1aebb40379353b7c823e637074c6ebfdafcb1ab.jpg" />][openvino]
 
 <br />
 <h2> About Me⚡:</h2>
